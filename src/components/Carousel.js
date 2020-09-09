@@ -15,7 +15,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Campsite Finder',
                     subTitle: 'Group project made using two APIs. Uses state selection to find National Park campgrounds, while also returning relevant park info and the weather forecast for the day.',
-                    imgSrc: 'https://live.staticflickr.com/65535/50322243867_0e8b66220c_m.jpg',
+                    imgSrc: 'https://live.staticflickr.com/65535/50321733863_6ed19dbb60_b.jpg',
                     link: 'https://github.com/gwensanabria/GitConnected-Project',
                     selected: false
                 },
@@ -23,15 +23,15 @@ class Carousel extends React.Component {
                     id: 1,
                     title: 'Workday Scheduler',
                     subTitle: 'Nine to five daily scheduler that saves input into local storage and highlight the current hour.',
-                    imgSrc: 'https://live.staticflickr.com/65535/50322062946_97f9b5c36e_m.jpg',
+                    imgSrc: 'https://live.staticflickr.com/65535/50321721338_55bfb62f92_b.jpg',
                     link: 'https://github.com/gwensanabria/Work_Day_Scheduler',
                     selected: false
                 },
                 {
                     id: 2,
                     title: 'Employee Tracker',
-                    subTitle: 'A comand line aplication that allows the user to add/view departments, employee roles, and employees as well as update employee roles. Information then gets saved to a MySql database.',
-                    imgSrc: 'https://live.staticflickr.com/65535/50321394138_371134e25c_m.jpg',
+                    subTitle: 'A command line aplication that allows the user to add/view departments, employee roles, and employees as well as update employee roles. Information then gets saved to a MySql database.',
+                    imgSrc: 'https://live.staticflickr.com/65535/50322402026_f4f23a7cb2_b.jpg',
                     link: 'https://github.com/gwensanabria/Employee_Tracker',
                     selected: false
                 },
@@ -39,24 +39,24 @@ class Carousel extends React.Component {
                     id: 3,
                     title: 'POD | E-Learning',
                     subTitle: 'Group project made using MySql, Express, Sequelize. Online learning platform for teachers to upload content so that their student can learn from home. Live site to come.',
-                    imgSrc: 'https://live.staticflickr.com/65535/50322243832_9a8d05ddfa_m.jpg',
-                    Link: 'https://github.com/gwensanabria/POD_APP',
+                    imgSrc: 'https://live.staticflickr.com/65535/50321733798_8af41daf28_b.jpg',
+                    link: 'https://github.com/gwensanabria/POD_APP',
                     selected: false
                 },
                 {
                     id: 4,
                     title: 'Note Taker',
                     subTitle: 'Site were user can create, update, delete notes. Notes saved to local machine.',
-                    imgSrc: 'https://live.staticflickr.com/65535/50321394168_edc3aa3d9c_m.jpg',
-                    Link: 'https://github.com/gwensanabria/NoteTaker',
+                    imgSrc: 'https://live.staticflickr.com/65535/50322579617_20ba80b224_b.jpg',
+                    link: 'https://github.com/gwensanabria/NoteTaker',
                     selected: false
                 },
                 {
                     id: 5,
                     title: 'Employee Summery Creator',
-                    subTitle: 'A team generator command line application that prompts users for information about the team manager and then information about the team members. Then uses that information to create stylized cards.',
-                    imgSrc: 'https://live.staticflickr.com/65535/50321394188_38b96e6b53_m.jpg',
-                    Link: 'https://github.com/gwensanabria/Employee_Summary',
+                    subTitle: 'A command line application that prompts users for infor about team members and then uses that info to create stylized cards.',
+                    imgSrc: 'https://live.staticflickr.com/65535/50321733838_3438980464_b.jpg',
+                    link: 'https://github.com/gwensanabria/Employee_Summary',
                     selected: false
                 }
             ]
