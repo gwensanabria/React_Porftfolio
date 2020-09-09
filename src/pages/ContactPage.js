@@ -89,6 +89,7 @@ class ContactPage extends React.Component {
                         {this.state.emailSent === true && <p className='d-inline success-msg'>Email Sent</p>}
                         {this.state.emailSent === false && <p className='d-inline error-msg'>Email Not Sent</p>}
                     </Form>
+                    <p>Email: gwensanabria@gmail.com || Cell: (512)522-5218</p>
                 </Content>
             </div>
         )
