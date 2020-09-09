@@ -1,5 +1,5 @@
 import React from 'react'
-import kass from '../assets/images/example.png'
+// import kass from '../assets/images/example.png'
 import Card from '../components/Card'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
@@ -15,7 +15,7 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Project Name',
                     subTitle: 'Project Subtitle',
-                    imgSrc: kass,
+                    imgSrc: 'https://cdn.business2community.com/wp-content/uploads/2013/09/best-press-release-example.jpg',
                     link: 'https://google.com',
                     selected: false
                 },
@@ -23,7 +23,7 @@ class Carousel extends React.Component {
                     id: 1,
                     title: 'Project Name',
                     subTitle: 'Project Subtitle',
-                    imgSrc: kass,
+                    imgSrc: 'https://cdn.business2community.com/wp-content/uploads/2013/09/best-press-release-example.jpg',
                     link: 'https://youtube.com',
                     selected: false
                 },
@@ -31,7 +31,7 @@ class Carousel extends React.Component {
                     id: 2,
                     title: 'Project Name',
                     subTitle: 'Project Subtitle',
-                    imgSrc: kass,
+                    imgSrc: 'https://cdn.business2community.com/wp-content/uploads/2013/09/best-press-release-example.jpg',
                     link: 'https://github.com',
                     selected: false
                 },
@@ -39,7 +39,7 @@ class Carousel extends React.Component {
                     id: 3,
                     title: 'Project Name',
                     subTitle: 'Project Subtitle',
-                    imgSrc: kass,
+                    imgSrc: 'https://cdn.business2community.com/wp-content/uploads/2013/09/best-press-release-example.jpg',
                     Link: 'https://google.com',
                     selected: false
                 },
@@ -47,7 +47,7 @@ class Carousel extends React.Component {
                     id: 4,
                     title: 'Project Name',
                     subTitle: 'Project Subtitle',
-                    imgSrc: kass,
+                    imgSrc: 'https://cdn.business2community.com/wp-content/uploads/2013/09/best-press-release-example.jpg',
                     Link: 'https://youtube.com',
                     selected: false
                 },
@@ -55,7 +55,7 @@ class Carousel extends React.Component {
                     id: 5,
                     title: 'Project Name',
                     subTitle: 'Project Subtitle',
-                    imgSrc: kass,
+                    imgSrc: 'https://cdn.business2community.com/wp-content/uploads/2013/09/best-press-release-example.jpg',
                     Link: 'https://github.com',
                     selected: false
                 }
