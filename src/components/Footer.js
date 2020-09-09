@@ -12,7 +12,7 @@ function Footer() {
                         Gwendoline Sanabria
                     </Col>
                     <Col className='p-0 d-flex justify-content-end' md={3}>
-                        This site was made by Gwendoline Sanabria.
+                    &copy; Gwendoline Sanabria
                     </Col>
                 </Row>
             </Container>
