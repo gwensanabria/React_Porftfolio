@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Porftfolio/static/css/main.20d5d31f.chunk.css",
+    "main.js": "/React_Porftfolio/static/js/main.6f368103.chunk.js",
+    "main.js.map": "/React_Porftfolio/static/js/main.6f368103.chunk.js.map",
+    "runtime-main.js": "/React_Porftfolio/static/js/runtime-main.59cda9c0.js",
+    "runtime-main.js.map": "/React_Porftfolio/static/js/runtime-main.59cda9c0.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/React_Porftfolio/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.40d9b7e6.chunk.js": "/React_Porftfolio/static/js/2.40d9b7e6.chunk.js",
+    "static/js/2.40d9b7e6.chunk.js.map": "/React_Porftfolio/static/js/2.40d9b7e6.chunk.js.map",
+    "index.html": "/React_Porftfolio/index.html",
+    "precache-manifest.dd64d8095a89a9228881f8dabf40e63d.js": "/React_Porftfolio/precache-manifest.dd64d8095a89a9228881f8dabf40e63d.js",
+    "service-worker.js": "/React_Porftfolio/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/React_Porftfolio/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.20d5d31f.chunk.css.map": "/React_Porftfolio/static/css/main.20d5d31f.chunk.css.map",
+    "static/js/2.40d9b7e6.chunk.js.LICENSE.txt": "/React_Porftfolio/static/js/2.40d9b7e6.chunk.js.LICENSE.txt",
+    "static/media/Sanabria.resume.pdf": "/React_Porftfolio/static/media/Sanabria.resume.660d4d02.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59cda9c0.js",
+    "static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.40d9b7e6.chunk.js",
+    "static/css/main.20d5d31f.chunk.css",
+    "static/js/main.6f368103.chunk.js"
+  ]
+}
