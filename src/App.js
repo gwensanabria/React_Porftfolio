@@ -12,6 +12,7 @@ import HomePage from './pages/HomePage'
 import AboutPage from './pages/AboutPage'
 import ContactPage from './pages/ContactPage'
 
+
 class App extends React.Component {
 
   constructor(props) {
@@ -43,7 +44,9 @@ class App extends React.Component {
         <Container className='p-0' fluid={true}>
 
           <NavBar className='border-bottom' bg='transparent' expand='lg'>
-            <Navbar.Brand>Gwendoline Sanabria</Navbar.Brand>
+            <Navbar.Brand>
+              <Link className='nav-link' to='/' style={{ color: 'black' }}>Gwendoline Sanabria</Link>
+            </Navbar.Brand>
 
             <NavBar.Toggle className='border-0' aria-controls='navbar-toggle' />
             <Navbar.Collapse id='navbar-toggle'>
