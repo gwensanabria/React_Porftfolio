@@ -19,8 +19,8 @@ code {
 /* adjust size for mobile viewing */
 .g-card-image {
   border-radius: 10px;
-  width: 400px; 
-  height: 300px;
+  width: 300px; 
+  height: 200px;
   box-shadow: 0px 0px 3px 1px #ccc;
 }
 

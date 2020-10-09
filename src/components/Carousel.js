@@ -29,18 +29,18 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 2,
-                    title: 'Employee Tracker',
-                    subTitle: 'A command line aplication that allows the user to add/view departments, employee roles, and employees as well as update employee roles. Information then gets saved to a MySql database.',
-                    imgSrc: 'https://live.staticflickr.com/65535/50322402026_f4f23a7cb2_b.jpg',
-                    link: 'https://github.com/gwensanabria/Employee_Tracker',
-                    selected: false
-                },
-                {
-                    id: 3,
                     title: 'POD | E-Learning',
                     subTitle: 'Group project made using MySql, Express, Sequelize. Online learning platform for teachers to upload content so that their student can learn from home. Live site to come.',
                     imgSrc: 'https://live.staticflickr.com/65535/50321733798_8af41daf28_b.jpg',
                     link: 'https://github.com/gwensanabria/POD_APP',
+                    selected: false
+                },
+                {
+                    id: 3,
+                    title: 'Employee Tracker',
+                    subTitle: 'A command line aplication that allows the user to add/view departments, employee roles, and employees as well as update employee roles. Information then gets saved to a MySql database.',
+                    imgSrc: 'https://live.staticflickr.com/65535/50322402026_f4f23a7cb2_b.jpg',
+                    link: 'https://github.com/gwensanabria/Employee_Tracker',
                     selected: false
                 },
                 {
